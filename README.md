@@ -26,7 +26,8 @@ Conclusion
 This project to enhance decision-making processes by extracting, cleaning and Analysing Netflix Dataset
 
 •	Key Findings
-1)US Leads in Content Volume
+
+1) US Leads in Content Volume
 2) International Content is Growing Rapidly
 3) Dramas and Comedies are Most Popular Genres
 4) Recent Titles Added Faster than Older Ones
